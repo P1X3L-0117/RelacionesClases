@@ -18,6 +18,7 @@ Estructura del Proyecto
 
 Mapa de relaciones entre clases
   
+![Diagrama de Clases](imagenes/diagrama_clases.png)
 
 
 Casos de Uso
