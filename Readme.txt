@@ -18,7 +18,7 @@ Estructura del Proyecto
 
 Mapa de relaciones entre clases
   
-![Diagrama de Clases](imagenes/diagrama_clases.png)
+![Diagrama de Clases](https://github.com/P1X3L-0117/RelacionesClases/blob/22b100303e9df8e7f720932ff1c17812086f206c/mapa.jpg)
 
 
 Casos de Uso
